@@ -1,7 +1,7 @@
 # 2021 Tokyo Olympic Data Analytics | Azure Data Engineering Project
 
 ## Introduction
-This project dives into the world of Olympics data analytics using modern data engineering practices on Microsoft Azure. We'll leverage different services like Datafactory for building ETL pipelines, Data Lake Gen for storing raw and transformed data, Databricks for transforming data using spark, Synapse Analytics for builing scalable databases and Cloud Storage for managing the data throughout the process.
+This project dives into the world of Olympics data analytics using modern data engineering practices on Microsoft Azure. We'll leverage different services like Datafactory for building ETL pipelines, Data Lake Gen2 for storing raw and transformed data, Databricks for transforming data using spark, Synapse Analytics for builing scalable databases and Cloud Storage for managing the data throughout the process.
 
 ## Architecture
 ![Project Architecture](Architecture_diagram.png)
